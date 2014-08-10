@@ -1,4 +1,4 @@
-SFML-2.1-Tutorial-8---Text-Events
+SFML 2.1 Tutorial 8 - Text Events
 =================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/lrJulrbFyLs
